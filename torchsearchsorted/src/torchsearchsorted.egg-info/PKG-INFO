@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: torchsearchsorted
+Version: 1.1
+Summary: A searchsorted implementation for pytorch
+Home-page: UNKNOWN
+Author: Antoine Liutkus
+Author-email: antoine.liutkus@inria.fr
+License: UNKNOWN
+Keywords: searchsorted
+Platform: UNKNOWN
+Provides-Extra: test
+License-File: LICENSE
+
+UNKNOWN
+

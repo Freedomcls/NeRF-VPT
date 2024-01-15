@@ -1,0 +1,3 @@
+python eval.py  --root_dir room_0/Sequence_1/ --dataset_name replica --scene_name replica_stage0_test --split test --img_wh 320 240 --N_importance 64 --chunk 40000 --ckpt_path ckpts/replica_stage0/\{epoch\:d\}/epoch\=17-step\=15191.ckpt --render test
+python eval.py  --root_dir room_0/Sequence_1/ --dataset_name replica --scene_name replica_stage0_train --split test --img_wh 320 240 --N_importance 64 --chunk 40000 --ckpt_path ckpts/replica_stage0/\{epoch\:d\}/epoch\=17-step\=15191.ckpt --render train
+python eval.py  --root_dir room_0/Sequence_1/ --dataset_name replica --scene_name replica_stage0_val --split test --img_wh 320 240 --N_importance 64 --chunk 40000 --ckpt_path ckpts/replica_stage0/\{epoch\:d\}/epoch\=17-step\=15191.ckpt --render val

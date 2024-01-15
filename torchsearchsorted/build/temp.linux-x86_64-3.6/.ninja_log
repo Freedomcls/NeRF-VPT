@@ -1,0 +1,4 @@
+# ninja log v5
+0	19878	1671359861595860219	/home/chenlinsheng/3D-nerf-da/torchsearchsorted/build/temp.linux-x86_64-3.6/src/cpu/searchsorted_cpu_wrapper.o	441310824eeb56cd
+1	19773	1671359881911824878	/home/chenlinsheng/3D-nerf-da/torchsearchsorted/build/temp.linux-x86_64-3.6/src/cuda/searchsorted_cuda_wrapper.o	e62d29e273c44d89
+3	21307	1671382457788011481	/home/chenlinsheng/3D-nerf-da/torchsearchsorted/build/temp.linux-x86_64-3.6/src/cpu/searchsorted_cpu_wrapper.o	2b30ba1b8deb401f
