@@ -18,7 +18,12 @@
 # Training
 
 ### Data download
-Download data from here.(Baidu Netdisk link:`https://pan.baidu.com/s/1Z-hyU7iLW4imccumzpMTGg?pwd=1234`, and extraction code: `1234`)
+Download data from here.
+
+[Google Drive](https://drive.google.com/file/d/1RadzyU4elRbEMn5vHfQEHKnIINOTUbAY/view?usp=sharing)
+
+[Baidu Netdisk](https://pan.baidu.com/s/1Z-hyU7iLW4imccumzpMTGg?pwd=1234), extraction code: `1234`
+
 Unzip the data and place it in the current directory.
 
 
